@@ -63,7 +63,7 @@ public class ShamS {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**Design & Tools**
+**Tools & Platforms**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
