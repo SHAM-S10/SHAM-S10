@@ -1,6 +1,5 @@
-## Sham
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAM%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT+Student+%7C+Aspiring+Developer+%7C+Building+Projects+%26+AI+Explorer&descAlignY=62&descSize=16" width="100%"/>
-
+## Sham 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=SHAM%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT+Student+%7C+Aspiring+Developer+%7C+Building+Projects&descAlignY=60&descSize=18" width="100%"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sham+S+%F0%9F%91%8B;B.Tech+IT+Student+%40+KNCET;Aspiring+Developer+%7C+Building+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
