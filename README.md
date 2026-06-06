@@ -4,10 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sham+S+%F0%9F%91%8B;B.Tech+IT+Student+%40+KNCET;Aspiring+Developer+%7C+Building+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SHAM-S10&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/SHAM-S10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sham--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sham-s-300694330/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHAM--S10-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SHAM-S10)
-[![Email](https://img.shields.io/badge/Email-shamselvam30%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shamselvam30@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/sham-s-300694330/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SHAM-S10">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:shamselvam30@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SHAM-S10&style=for-the-badge&color=70A5FD"/>
+</p>
 
 </div>
 
