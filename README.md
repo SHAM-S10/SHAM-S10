@@ -1,3 +1,4 @@
+## Sham
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAM%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT+Student+%7C+Aspiring+Developer+%7C+Building+Projects+%26+AI+Explorer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
@@ -15,7 +16,9 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>```java
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```java
 public class ShamS {
 
     String name        = "Sham S";
