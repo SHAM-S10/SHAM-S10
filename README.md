@@ -16,8 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
+<img align="right" width="380" src="https://user-images.githubusercontent.com/115187902/230603133-52eedb90-6313-41ef-86a6-122ec3848e19.gif"/>
 ```java
 public class ShamS {
 
