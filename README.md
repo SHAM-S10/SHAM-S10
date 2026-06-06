@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAM%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT+Student+%7C+UI%2FUX+Enthusiast+%7C+IoT+%26+AI+Explorer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAM%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT+Student+%7C+Aspiring+Developer+%7C+Building+Projects+%26+AI+Explorer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sham+S+%F0%9F%91%8B;B.Tech+IT+Student+%40+KNCET;UI%2FUX+Designer+%7C+IoT+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sham+S+%F0%9F%91%8B;B.Tech+IT+Student+%40+KNCET;Aspiring+Developer+%7C+Building+Projects;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SHAM-S10&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/SHAM-S10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sham--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sham-s-300694330/)
@@ -16,6 +16,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```java
 public class ShamS {
 
