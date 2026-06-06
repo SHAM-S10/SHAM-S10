@@ -1,4 +1,3 @@
-## Sham 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=SHAM%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT+Student+%7C+Aspiring+Developer+%7C+Building+Projects&descAlignY=60&descSize=18" width="100%"/>
 <div align="center">
 
